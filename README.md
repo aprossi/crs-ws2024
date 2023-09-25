@@ -48,7 +48,10 @@ Info courtesy Trent Hare (USGS)
 * OGC CRS Resolver - http://www.opengis.net/def/crs/IAU
   * http://voparis-vespa-crs.obspm.fr:8080/web/
   * https://github.com/PlanetMap/csvForWKT
-  * 
+
+* CRS Exolorer - https://crs-explorer.proj.org
+  * https://github.com/OSGeo/PROJ-CRS-Explorer/tree/master/wkt2
+  * https://github.com/OSGeo/PROJ-CRS-Explorer/tree/master/wkt1
 
 Examples: 
 
