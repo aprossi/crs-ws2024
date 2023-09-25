@@ -1,11 +1,12 @@
 # CRS @ 2024 GMAP Winter School
 
-Info on data used for the Coordinate Reference System (CRS) intro on [CRS data info](crs_data_info_2023-GMAP-winter-school.md)
+Info on data used for the Coordinate Reference System (CRS) intro on CRS data info](crs_data_info_2024-GMAP-winter-school.md)
+
+Earier version (Moon, Mars-focused) of this content on the [2023 GMAP Winter School repo](https://github.com/europlanet-gmap/winter-school-2023/tree/main/crs)
 
 Some examples on: 
 
-* [notebooks/map-projections.ipynb](notebooks/map-projections.ipynb)
-* [notebooks/Jezero-map-projections.ipynb](notebooks/Jezero-map-projections.ipynb)
+TBA
 
 ## Books (openly available)
 
@@ -44,7 +45,10 @@ Some examples on:
 
 Info courtesy Trent Hare (USGS)
 
-* http://www.opengis.net/def/crs/IAU/2015 - http://voparis-vespa-crs.obspm.fr:8080/web/
+* OGC CRS Resolver - http://www.opengis.net/def/crs/IAU
+  * http://voparis-vespa-crs.obspm.fr:8080/web/
+  * https://github.com/PlanetMap/csvForWKT
+  * 
 
 Examples: 
 
