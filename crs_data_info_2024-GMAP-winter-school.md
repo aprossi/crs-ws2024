@@ -3,7 +3,73 @@
 See also related presentatipn content at https://aprossi.eu/content/crs2024
 
 ## Ganymede raster
-Exemplary global Ganymede maps are based on the following datasets. Each dataset is provided in difrerent CRS
+Exemplary global Ganymede
+maps are based on the following datasets. Each dataset is provided in difrerent CRS.
+
+similarly to https://github.com/europlanet-gmap/winter-school-2023/blob/main/crs/crs_data_info_2023-GMAP-winter-school.md
+
+created with proj4leaflet maps of ganymede with 
+
+### Gegraphic (lonlat)
+
+```
+'+proj=lonlat +R=2631200 +no_defs'
+```
+
+### Equirectangular (eqc) - centered at 180
+```
+'+proj=eqc +lat_ts=0 +lat_0=0 +lon_0=180 +x_0=0 +y_0=0 +R=2631200 +units=m +no_defs'
+```
+### Equirectangular (eqc) - centered at 0
+```
+'+proj=eqc +lat_ts=0 +lat_0=0 +lon_0=0 +x_0=0 +y_0=0 +R=2631200 +units=m +no_defs'
+```
+### Cylindrical equal area (cea) - centeread at 0
+```
+'+proj=cea +lat_ts=0 +lon_0=0 +x_0=0 +y_0=0 +R=2631200 +units=m +no_defs'
+```
+### Ortographic (eqc) - centered at 0
+```
+'+proj=ortho +lat_0=0 +lon_0=0 +x_0=0 +y_0=0 +R=2631200 +units=m +no_defs'
+```
+### Ortographic (eqc) - centered at 180
+```
+'+proj=ortho +lat_0=0 +lon_0=180 +x_0=0 +y_0=0 +R=2631200 +units=m +no_defs'
+```
+### Robindson (eqc) - centered at 0
+```
+'+proj=robin +lon_0=0 +x_0=0 +y_0=0 +R=2631200 +units=m +no_defs'
+```
+
+plus for other demonstrations
+
+
+
+e.g. doing a crop of a mercator with a bbox of DD, one can
+
+```
+gdalwarp -t_srs "+proj=merc +lon_0=0 +x_0=0 +y_0=0 +R=2631200 +units=m +no_defs" -te_srs "+proj=lonlat +R=2631200 +no_defs" -te -180 -80 180 80 ganymede_lonlat.tif ganymede_merc_clon0_small.tif
+
+```
+
+example quandrangle maps of ganymede (see ref source below)
+
+e.g.
+
+https://astrogeology.usgs.gov/search/map/Ganymede/Geology/Ganymede-Geologic-Map-of-the-Philus-Sulcus-Quadrangle
+
+https://astropedia.astrogeology.usgs.gov/download/Ganymede/Geology/Ganymede-Geologic-Map-of-the-Philus-Sulcus-Quadrangle.pdf
+
+
+also for vesta:
+
+source DLR HAMO mosaic also https://astrogeology.usgs.gov/search/map/Vesta/Dawn/DLR/HAMO/Vesta_Dawn_FC_HAMO_Mosaic_Global_74ppd
+
+
+```
+'+proj=eqc +lat_ts=0 +lat_0=0 +lon_0=0 +x_0=0 +y_0=0 +R=255000 +units=m +no_defs'
+
+```
 
 ## Moon vector data
 
