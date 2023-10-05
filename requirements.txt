@@ -6,6 +6,6 @@ owslib
 pandas
 planetary-coverage
 pykdtree
-pyproj
+pyproj >= 3.6
 python
 pyvista
