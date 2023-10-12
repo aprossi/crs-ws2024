@@ -1,5 +1,7 @@
 # CRS @ 2024 GMAP Winter School
 
+See also related presentatipn content at [https://aprossi.eu/content/crs2024](https://aprossi.eu/content/crs2024).
+
 Info on data used for the Coordinate Reference System (CRS) [intro on CRS data info](crs_data_info_2024-GMAP-winter-school.md)
 
 Earier version (Moon, Mars-focused) of this content on the [2023 GMAP Winter School repo](https://github.com/europlanet-gmap/winter-school-2023/tree/main/crs)
