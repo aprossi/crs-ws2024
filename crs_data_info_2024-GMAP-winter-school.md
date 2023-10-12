@@ -82,3 +82,14 @@ Used within D3
 ## Small bodies - shape models
 
 All from PDS Small Bodies Node tool - https://sbn.psi.edu/pds/shape-models/, but one from ESA - http://comsim.esac.esa.int/rossim/SHAPE_MODEL_DRAFTS/RO-C-MULTI-5-67P-SHAPE-V3.0/DATA/SPICE_DSK/SPG_DLR/
+
+## References
+
+Relevant referemces for the data mentioned above:
+
+Fortezzo, C.M., Spudis, P. D. and Harrel, S. L. (2020). Release of the Digital Unified Global Geologic Map of the Moon At 1:5,000,000- Scale. Paper presented at the 51st Lunar and Planetary Science Conference, Lunar and Planetary Institute, Houston, TX. https://www.hou.usra.edu/meetings/lpsc2020/pdf/2760.pdf
+
+Nelson, D. M., Koeber, S. D., Daud, K., Robinson, M. S., Watters, T. R., Banks, M. E., & Williams, N. R. (2014) Mapping lunar maria extents and lobate scarps using LROC image products. In Lunar and Planetary Science Conference (Vol. 45, p. 2861).
+
+
+
