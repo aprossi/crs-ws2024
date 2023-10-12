@@ -1,6 +1,6 @@
 # 2023 GMAP Winter School - CRS data sources
 
-See also related presentatipn content at https://aprossi.eu/content/crs2024
+See also related presentatipn content at https://aprossi.eu/content/crs2024. Source are also linked from there.
 
 ## Ganymede raster
 Exemplary global Ganymede
