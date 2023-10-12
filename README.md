@@ -7,10 +7,9 @@ Earier version (Moon, Mars-focused) of this content on the [2023 GMAP Winter Sch
 Some examples on: 
 
 * [notebooks/0_crs_intro.ipynb](./notebooks/0_crs_intro.ipynb)
-* notebooks/1_venus.ipynb
-* notebooks/2_icy_satellites.ipynb
-* notebooks/3_small_bodies.ipynb
-* notebooks/4_utilities-crs.ipynb
+* [notebooks/1_venus.ipynb](./notebooks/1_venus.ipynb)
+* [notebooks/2_icy_satellites.ipynb](./notebooks/2_icy_satellites.ipynb)
+* [notebooks/3_small_bodies.ipynb](./notebooks/3_small_bodies.ipynb)
 
 ## Books (openly available)
 
