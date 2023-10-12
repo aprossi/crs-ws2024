@@ -73,9 +73,12 @@ source DLR HAMO mosaic also https://astrogeology.usgs.gov/search/map/Vesta/Dawn/
 
 ## Moon vector data
 
-Used within D3 js 
+Used within D3
+
+* USGS - https://astrogeology.usgs.gov/search/map/Moon/Geology/Unified_Geologic_Map_of_the_Moon_GIS_v2
+* ASU/LROC - https://wms.lroc.asu.edu/lroc/view_rdr/SHAPEFILE_LROC_GLOBAL_MARE
 
 
 ## Small bodies - shape models
 
-All from PDS Small Bodies Node tool - https://sbn.psi.edu/pds/shape-models/
+All from PDS Small Bodies Node tool - https://sbn.psi.edu/pds/shape-models/, but one from ESA - http://comsim.esac.esa.int/rossim/SHAPE_MODEL_DRAFTS/RO-C-MULTI-5-67P-SHAPE-V3.0/DATA/SPICE_DSK/SPG_DLR/
