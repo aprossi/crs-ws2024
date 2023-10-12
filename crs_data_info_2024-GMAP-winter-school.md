@@ -87,9 +87,9 @@ All from PDS Small Bodies Node tool - https://sbn.psi.edu/pds/shape-models/, but
 
 Relevant referemces for the data mentioned above:
 
-Fortezzo, C.M., Spudis, P. D. and Harrel, S. L. (2020). Release of the Digital Unified Global Geologic Map of the Moon At 1:5,000,000- Scale. Paper presented at the 51st Lunar and Planetary Science Conference, Lunar and Planetary Institute, Houston, TX. https://www.hou.usra.edu/meetings/lpsc2020/pdf/2760.pdf
+Fortezzo, C.M., Spudis, P. D. and Harrel, S. L. (2020) Release of the Digital Unified Global Geologic Map of the Moon At 1:5,000,000- Scale. Paper presented at the 51st Lunar and Planetary Science Conference, Lunar and Planetary Institute, Houston, TX. https://www.hou.usra.edu/meetings/lpsc2020/pdf/2760.pdf
 
 Nelson, D. M., Koeber, S. D., Daud, K., Robinson, M. S., Watters, T. R., Banks, M. E., & Williams, N. R. (2014) Mapping lunar maria extents and lobate scarps using LROC image products. In Lunar and Planetary Science Conference (Vol. 45, p. 2861).
 
-
+Roatsch, T., Kersten, E., Matz, K.-D., Preusker, F., Scholten, F., Jaumann, R., Raymond, C. A., & Russell, C. T. (2012) High resolution Vesta High Altitude Mapping Orbit (HAMO) Atlas derived from Dawn framing camera images. Planetary and Space Science, 73(1), 283-286. https://doi.org/10.1016/j.pss.2012.08.021
 
